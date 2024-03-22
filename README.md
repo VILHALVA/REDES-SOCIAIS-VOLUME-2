@@ -37,27 +37,7 @@ O aplicativo "Redes Sociais" permite aos usuários acessarem os perfis de Gustav
 7. **Acesso Externo:**
    - Os links são configurados para abrir em uma nova aba do navegador, garantindo que os usuários permaneçam no aplicativo enquanto exploram os perfis de Gustavo Guanabara.
 
-## COMO USAR?
-### BAIXANDO O PROJETO:
-* Clone o repositório para o seu sistema local:
-
-```bash
-git clone https://github.com/VILHALVA/REDES-SOCIAIS-VOLUME-2.git
-```
-
-* Navegue até o diretório do projeto.
-
-```bash
-cd REDES-SOCIAIS-VOLUME-2
-```
-
-* Descompacte o arquivo ZIP (se você baixou manualmente):
-
-```bash
-unzip REDES-SOCIAIS-VOLUME-2.zip
-```
-
-### EXECUTANDO O PROJETO:
+## EXECUTANDO O PROJETO:
 1. Abra o arquivo `CODIGO.html` em um navegador da web.
 
 2. **Explorar os Perfis Sociais:**
@@ -71,9 +51,9 @@ unzip REDES-SOCIAIS-VOLUME-2.zip
 
 ## NÃO SABE?
 - Entendemos que para manipular arquivos em `HTML`, `CSS` e outras linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
-* [Curso de HTML e CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
-* [Curso de JavaScript](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
-* [Confira mais cursos](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
+* [CURSO DE HTML E CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
+* [CURSO DE JAVASCRIPT](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
+* [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## CREDITOS:
 - [PROJETO FEITO PELO VILHALVA](https://github.com/VILHALVA)
